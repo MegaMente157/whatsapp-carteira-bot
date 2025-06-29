@@ -1,1 +1,14 @@
-
+{
+  "name": "whatsapp-carteira-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp estilo carteira financeira",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SeuNome",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^5.0.2"
+  }
+}
